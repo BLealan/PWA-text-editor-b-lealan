@@ -23,7 +23,7 @@ module.exports = () => {
         title: 'PWA-text-editor'
       }),
       //plugin settings for manifest
-      new InjectManifest({
+      new WebpackPwaManifest({
         name: 'PWA-text-editor',
         short_name: 'PWS-txt-ed',
         description: 'Write and edit text/code snippets',
