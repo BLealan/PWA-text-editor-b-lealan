@@ -29,8 +29,8 @@ module.exports = () => {
         name: 'PWA-text-editor',
         short_name: 'PWS-txt-ed',
         description: 'Write and edit text/code snippets',
-        background_color: '',
-        theme_color: '',
+        background_color: '#225ca3',
+        theme_color: '#225ca3',
         start_url: './',
         publicPath: './',
         icons: [
