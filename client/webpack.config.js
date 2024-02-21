@@ -20,6 +20,10 @@ module.exports = () => {
         template: './index.html',
         title: 'PWA-text-editor'
       }),
+      new InjectManifest({
+        swSrc: './src-sw.js',
+        swDest: './src-sw.js',
+      }),
       //plugin settings for manifest
       new WebpackPwaManifest({
         name: 'PWA-text-editor',
