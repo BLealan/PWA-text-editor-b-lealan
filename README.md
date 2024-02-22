@@ -15,4 +15,8 @@ By adding additional functionality to some existing code, this app will be used 
 
 ## Usage
 
+You can download the application for use offline, just click on the 'Install!' button.
+
 The deployed application can be found here: https://pwa-text-editor-b-lealan.onrender.com/
+
+Github link: https://github.com/BLealan/PWA-text-editor-b-lealan
