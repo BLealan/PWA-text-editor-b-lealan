@@ -15,13 +15,13 @@ The application can also be downloaded from the browser, to be used directly on 
 - Run `npm start` which will initiliase the application (this will both build the 'dist' folder automatically and launch the server).
 - View programme on `http://localhost:3000/`
 
-![gif of initilising application from terminal](./assets/pwa-jate-npm.gif)
+![gif of initilising application from terminal](./Assets/pwa-jate-npm.gif)
 
 ## Usage
 
 You can download the application for use offline, just click on the 'Install!' button.
 
-![gif of installing application from browser](./assets/pwa-jate-browser-install.gif)
+![gif of installing application from browser](./Assets/pwa-jate-browser-install.gif)
 
 The deployed application can be found here: https://pwa-text-editor-b-lealan.onrender.com/
 
